@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Rezaul Karim</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG animation" width="600"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
 </p>
 
 🎓 Final Year **CSE Student** at **BRAC University**  
