@@ -1,68 +1,57 @@
-<h1 align="center">Hi 👋, I'm MD Ikramul Kayes</h1>
+<h1 align="center">Hi 👋, I'm MD Rezaul Karim</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ikramulkayes/ikramulkayes/main/matrix.svg" alt="Matrix SVG animation" width="600"/>
 </p>
 
-🎓 I’m a Computer Science student at **BRAC University** with a strong passion for **Natural Language Processing**, **AI**, and **DevOps**. I enjoy solving real-world problems with code and collaborating on impactful projects.
+🎓 Final Year **CSE Student** at **BRAC University**  
+🔍 **OSINT Specialist** | 📚 **Researcher** | 💻 **MERN & Laravel Developer** | 🛡️ **Penetration Testing Enthusiast**
 
 ---
 
 ## 💼 Current Roles
 
-- 👨‍💻 **Trainee Software Developer** (Remote) at **Home&Out**, a US-based startup
-- 🔧 Backend/Data scraping developer for various US clients
-- 🎯 Member of **BRACU Dichari (AI & Control Subteam)**
-- 🌍 **Microsoft Learn Student Ambassador**
-- 🧠 **Approver** at **CNCF (Cloud-Native Computing Foundation)**
-- 🚀 **NASA Space Apps 2022** Dhaka – 🥈 *First Runner-Up*
+- 🧪 Conducting **Thesis Research** on *Mobile Security & Real-time Privacy Control*
+- 🛡️ Actively learning and practicing **Penetration Testing** & **Ethical Hacking**
+- 💡 Member of ongoing academic and usability testing projects
+- 🧠 Involved in **HCI-based** research and privacy-centric app design
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔧 **Languages**
-`Python` • `C/C++` • `JavaScript` • `Go`
+### 💻 **Languages**
+`C` • `C++` • `Python` • `JavaScript` • `PHP`
 
-### 🧠 **Backend**
-`Node.js` • `FastAPI` • `Django` • `Flask` • `PHP` • `Express.js`
-
-### 🖥️ **Frontend**
-`React.js` • `Svelte` • `Next.js`
+### 🌐 **Web Development**
+`React.js` • `Node.js` • `Express.js` • `Laravel` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap`
 
 ### 🗃️ **Databases**
-`PostgreSQL` • `MySQL` • `MongoDB` • `Prisma ORM`
+`MongoDB` • `MySQL` • `Firebase`
 
-### 🌐 **Web Scraping**
-`Selenium` • `BeautifulSoup` • `Proxy Rotation`
+### 🔐 **Cybersecurity Tools**
+`Burp Suite` • `Nmap` • `Wireshark` • `Metasploit` • `Kali Linux` • `Google Dorking` • `Recon-ng`
 
-### 🤖 **AI & Deep Learning**
-`TensorFlow` • `Keras` • `PyTorch` • `LangChain`
-
-### ⚙️ **DevOps**
-`Docker` • `Kubernetes` • `Jenkins` • `GitHub Actions` • `Terraform`  
-`ArgoCD` • `Grafana` • `Prometheus` • `Azure` (Cloud Deployment)
-
-### 💻 **Embedded/Robotics**
-`Raspberry Pi` • `NVIDIA Jetson` • `ROS`
+### 🧠 **Research & Tools**
+`Google Forms` • `SPSS` • `Figma` • `Postman` • `Git` • `GitHub` • `VS Code`
 
 ---
 
-## 🔍 Interests
+## 🔬 Research Interests
 
-- 🤖 Deep Learning & Computer Vision
-- 🤝 NLP and Conversational AI
-- 🛰️ Robotics & Embedded Systems
-- 🔐 Blockchain Applications
-- 🌍 Open Source & Hackathons
-
----
-
-## 📫 Let’s Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ikramulkayes/)  
-- 🐦 [Twitter](https://twitter.com/ikramulkayes)  
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(replace with your site)*
+- 🔐 Mobile App Privacy & Real-time Security Alerts  
+- 🧠 Human-Computer Interaction (HCI) & Usability Testing  
+- 🛡️ Security Behavior & Awareness Training  
+- 🌐 OSINT (Open Source Intelligence) for Ethical Hacking  
+- 🧩 Gamified Learning for Cybersecurity Education
 
 ---
 
-> “I’m passionate about building scalable systems, exploring the edge of AI, and creating meaningful impact through tech.”
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com) *(update link)* 
+- 📧 Email: *reza15361382@gmail.com*
+
+---
+
+> “I aim to build secure, intelligent systems that protect users and promote digital trust.”
+
