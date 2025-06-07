@@ -21,11 +21,10 @@
 ## 🛠️ Tech Stack
 
 ### 💻 **Languages**
-`C` • `C++` • `Python` • `JavaScript` • `PHP` • `Kotlin`
+`C` • `Python` • `Java` • `Assembly`• `Kotlin`
 
 ### 🌐 **Web Development**
-`React.js` • `Node.js` • `Express.js` • `Laravel` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap`
-
+`React.js` • `Node.js` • `Express.js` • `Laravel` • `HTML` • `CSS` 
 ### 📱 **Mobile Development**
 `Kotlin` • `Android Studio`
 
@@ -36,7 +35,7 @@
 `Burp Suite` • `Nmap` • `Wireshark` • `Metasploit` • `Kali Linux` • `Google Dorking` • `Recon-ng`
 
 ### 🧠 **Research & Tools**
-`Google Forms` • `SPSS` • `Figma` • `Postman` • `Git` • `GitHub` • `VS Code`
+`Google Forms` • `Figma` • `Postman` • `Git` • `GitHub` • `VS Code`
 
 ---
 
