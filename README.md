@@ -4,7 +4,7 @@
 </p>
 
 🎓 Final Year **CSE Student** at **BRAC University**  
-🔍 **OSINT Specialist** | 📚 **Researcher** | 💻 **MERN & Laravel Developer** | 🛡️ **Penetration Testing Enthusiast**
+🔍 **OSINT Specialist** | 📚 **Researcher** | 💻 **MERN, Laravel & Kotlin Developer** | 🛡️ **Penetration Testing Enthusiast**
 
 ---
 
@@ -12,6 +12,7 @@
 
 - 🧪 Conducting **Thesis Research** on *Mobile Security & Real-time Privacy Control*
 - 🛡️ Actively learning and practicing **Penetration Testing** & **Ethical Hacking**
+- 📱 Developing mobile applications using **Kotlin**
 - 💡 Member of ongoing academic and usability testing projects
 - 🧠 Involved in **HCI-based** research and privacy-centric app design
 
@@ -20,10 +21,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 **Languages**
-`C` • `C++` • `Python` • `JavaScript` • `PHP`
+`C` • `C++` • `Python` • `JavaScript` • `PHP` • `Kotlin`
 
 ### 🌐 **Web Development**
 `React.js` • `Node.js` • `Express.js` • `Laravel` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap`
+
+### 📱 **Mobile Development**
+`Kotlin` • `Android Studio`
 
 ### 🗃️ **Databases**
 `MongoDB` • `MySQL` • `Firebase`
@@ -48,10 +52,9 @@
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/md-rezaul-karim-2423a621a/) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-rezaul-karim-2423a621a/)  
 - 📧 Email: *reza15361382@gmail.com*
 
 ---
 
 > “I aim to build secure, intelligent systems that protect users and promote digital trust.”
-
