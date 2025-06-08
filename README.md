@@ -2,18 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm MD Rezaul Karim</h1>
 
-🎓 Final Year **CSE Student** at **BRAC University**  
-🔍 **OSINT Specialist** | 📚 **Researcher** | 💻 **MERN, Laravel & Kotlin Developer** | 🛡️ **Penetration Testing Enthusiast**
+<p align="center">
+  Final year CSE student at <strong>BRAC University</strong>, skilled in <strong>Kotlin</strong> for Android app development,  
+  with hands-on experience in full-stack web development using <strong>Laravel</strong> and the <strong>MERN stack</strong>.  
+  I have strong interest and hands-on experience in <strong>AI and machine learning</strong>. Currently working on a thesis 
+  focusing on <em>mobile privacy and real-time permission monitoring</em>. Interested in <strong>HCI</strong>, user behavior, 
+  secure system design, and building intelligent systems with practical impact. Also exploring <strong>OSINT</strong> and <strong>
+  penetration testing</strong> as part of my growing interest in cybersecurity.
+</p>
 
 ---
 
 ## 💼 Current Roles
 
 - 🧪 Conducting **Thesis Research** on *Mobile Security & Real-time Privacy Control*
-- 🛡️ Practicing **Penetration Testing** & **Ethical Hacking**
 - 📱 Developing mobile apps using **Kotlin**
+- 💻 Built AI & game-based projects in **Python** and **Assembly**
 - 💡 Contributing to academic and usability testing projects
-- 🧠 Exploring **HCI** and privacy-aware app design
+- 🛡️ Practicing **Penetration Testing** & **OSINT Research**
 
 ---
 
@@ -22,7 +28,7 @@
 ### 👨‍💻 Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=""&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=assembly&logoColor=red)
 
@@ -50,7 +56,6 @@
 ![Google Dorking](https://img.shields.io/badge/Google_Dorking-557C94?style=for-the-badge&logo=googledorking&logoColor=white)
 ![Recon Ng](https://img.shields.io/badge/Recon_Ng-557C94?style=for-the-badge&logo=reconng&logoColor=white)
 
-
 ### 🧪 Tools & Research
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,6 +69,7 @@
 - 🔐 Mobile Privacy & Real-Time Alerts  
 - 🧠 HCI & Usability Engineering  
 - 🛡️ Security Awareness & Behavioral Research  
+- 🤖 Applied AI for real-world tasks
 - 🌐 OSINT & Ethical Hacking  
 - 🧩 Gamified Cybersecurity Education
 
@@ -77,4 +83,3 @@
 ---
 
 > “I aim to build secure, intelligent systems that protect users and promote digital trust.”
-
