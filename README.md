@@ -20,9 +20,9 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=""&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=assembly&logoColor=red)
 
@@ -40,11 +40,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛡️ Cybersecurity Tools
+### 🛡️ Cybersecurity Tools `Nmap` •acunetix • `Google Dorking` • `Recon-ng
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3A3A3A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-557C94?style=for-the-badge&logo=nmap&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-557C94?style=for-the-badge&logo=acunetix&logoColor=white)
+![Google Dorking](https://img.shields.io/badge/Google_Dorking-557C94?style=for-the-badge&logo=googledorking&logoColor=white)
+![Recon Ng](https://img.shields.io/badge/Recon_Ng-557C94?style=for-the-badge&logo=reconng&logoColor=white)
+
 
 ### 🧪 Tools & Research
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -78,7 +83,45 @@
 ### 🐍 GitHub Activity Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hydra1536/Hydra1536/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hydra1536/Hydra1536/output/github-snake.svg" />
-  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/Hydra1536/Hydra1536/output/github-snake.svg" />
-</picture>
+  name: GitHub Snake Game
+
+on:
+  # Schedule the workflow to run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          # GitHub username to generate the animation for
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"</picture>
