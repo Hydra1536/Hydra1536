@@ -15,7 +15,7 @@
 
 ## 💼 Current Roles
 
-- 🧪 Conducting **Thesis Research** on *Mobile Security & Real-time Privacy Control*
+- 🧪 Conducted **Thesis Research** on *Mobile Security & Real-time Privacy Control*
 - 📱 Developing mobile apps using **Kotlin**
 - 💻 Built AI & game-based projects in **Python** and **Assembly**
 - 💡 Contributing to academic and usability testing projects
@@ -83,3 +83,4 @@
 ---
 
 > “I aim to build secure, intelligent systems that protect users and promote digital trust.”
+
