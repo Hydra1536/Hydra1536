@@ -44,7 +44,7 @@
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![XAMPP](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=XAMPP&logoColor=black)
 
 ### 🛡️ Cybersecurity Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -83,4 +83,5 @@
 ---
 
 > “I aim to build secure, intelligent systems that protect users and promote digital trust.”
+
 
