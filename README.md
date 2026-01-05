@@ -82,7 +82,8 @@
 
 ---
 
-## 🔬 Research Interests
+## ![LookingSearchingGIF](https://github.com/user-attachments/assets/8039775c-2cc8-4eab-8760-5e6d8e65ac19)
+ Research Interests
 
 - 🔐 Mobile Privacy & Real-Time Alerts  
 - 🧠 HCI & Usability Engineering  
@@ -111,6 +112,7 @@
 ---
 
 > “I aim to build secure, scalable systems that power real-world applications.”
+
 
 
 
