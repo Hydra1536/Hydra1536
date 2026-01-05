@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm MD Rezaul Karim</h1>
 
 <p align="center">
-  Final year CSE student at <strong>BRAC University</strong>, skilled in <strong>Kotlin</strong> for Android app development,  
+  Backend Engineer | CSE Graduate from <strong>BRAC University</strong> <br/>
+  Specialized in <strong>Django & Django REST Framework</strong>, building secure, scalable backend systems. <br/>
+  Experienced in <strong>PostgreSQL</strong>, <strong>JWT-based authentication</strong>, clean architecture, and API-driven development.
+  I am also skilled in <strong>Kotlin</strong> for Android app development,  
   with hands-on experience in full-stack web development using <strong>Laravel</strong> and the <strong>MERN stack</strong>.  
   I have strong interest and hands-on experience in <strong>AI and machine learning</strong>. Currently working on a thesis 
   focusing on <em>mobile privacy and real-time permission monitoring</em>. Interested in <strong>HCI</strong>, user behavior, 
@@ -13,35 +16,49 @@
 
 ---
 
-## 💼 Current Roles
+## 💼 Current Role
 
-- 🧪 Conducted **Thesis Research** on *Mobile Security & Real-time Privacy Control*
-- 📱 Developing mobile apps using **Kotlin**
-- 💻 Built AI & game-based projects in **Python** and **Assembly**
-- 💡 Contributing to academic and usability testing projects
-- 🛡️ Practicing **Penetration Testing** & **OSINT Research**
+- 🧑‍💻 **Backend Engineer**
+- 🏗️ Designing and developing RESTful APIs using **Django REST Framework**
+- 🔐 Implementing authentication, authorization, and role-based access control
+- 🧪 Writing unit and integration tests for backend services
+- ⚙️ Working with PostgreSQL, ORM optimization, and backend security
+- 🔄 Collaborating on full-stack systems with React frontends
 
+---
+## 🛠️ Core Backend Skills
+
+- **Python**, Django, Django REST Framework (DRF)
+- **PostgreSQL**, database design, ORM, complex queries
+- **JWT Authentication**, permissions, RBAC
+- API versioning, pagination, filtering, bulk operations
+- Security: CSRF, auth headers, middleware, access control
+- Testing: Django & DRF unit testing
+- Clean architecture, reusable components, soft delete
+- Git, environment management, deployment readiness
 ---
 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=assembly&logoColor=red)
 
 ### 🌐 Web & Mobile
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FFCA28?style=for-the-badge&logo=XAMPP&logoColor=black)
@@ -61,6 +78,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -75,6 +94,16 @@
 
 ---
 
+## 🔬 Professional Interests
+
+- Backend system design & scalability
+- Secure authentication & authorization
+- API performance & optimization
+- Clean architecture & maintainable code
+- SQA (manual & automation testing)
+- Microservice-style system design (POS, modular services)
+
+---
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/md-rezaul-karim-2423a621a/)
@@ -82,7 +111,7 @@
 
 ---
 
-> “I aim to build secure, intelligent systems that protect users and promote digital trust.”
+> “I aim to build secure, scalable systems that power real-world applications.”
 
 
 
