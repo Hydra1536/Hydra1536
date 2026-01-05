@@ -4,8 +4,7 @@
 
 <p align="center">
   Backend Engineer | CSE Graduate from <strong>BRAC University</strong> <br/>
-  Specialized in <strong>Django & Django REST Framework</strong>, building secure, scalable backend systems. <br/>
-  Experienced in <strong>PostgreSQL</strong>, <strong>JWT-based authentication</strong>, clean architecture, and API-driven development.
+  Specialized in <strong>Django & Django REST Framework</strong>, building secure, scalable backend systems. Experienced in <strong>PostgreSQL</strong>, <strong>JWT-based authentication</strong>, clean architecture, and API-driven development.
   I am also skilled in <strong>Kotlin</strong> for Android app development,  
   with hands-on experience in full-stack web development using <strong>Laravel</strong> and the <strong>MERN stack</strong>.  
   I have strong interest and hands-on experience in <strong>AI and machine learning</strong>. Currently working on a thesis 
@@ -112,6 +111,7 @@
 ---
 
 > “I aim to build secure, scalable systems that power real-world applications.”
+
 
 
 
