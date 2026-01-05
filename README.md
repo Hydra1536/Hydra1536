@@ -1,6 +1,7 @@
 <!-- <img src="https://raw.githubusercontent.com/Hydra1536/Hydra1536/0d5e55d8236778e0524189fb89d54ed32cff49ad/hack01.svg" alt="Matrix SVG" style="max-width: 100%;"> -->
- <p align="center"></p>
- ![WearelegendGIF](https://github.com/user-attachments/assets/9b38e6bb-abe2-4f56-8c9e-538563f10e7f) 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b38e6bb-abe2-4f56-8c9e-538563f10e7f" alt="WearelegendGIF">
+</p>
 
 <h1 align="center">Hi 👋, I'm MD Rezaul Karim</h1>
 
@@ -113,6 +114,7 @@
 ---
 
 > “I aim to build secure, scalable systems that power real-world applications.”
+
 
 
 
