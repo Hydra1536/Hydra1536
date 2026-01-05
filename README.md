@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Hydra1536/Hydra1536/0d5e55d8236778e0524189fb89d54ed32cff49ad/hack01.svg" alt="Matrix SVG" style="max-width: 100%;">
+<!-- <img src="https://raw.githubusercontent.com/Hydra1536/Hydra1536/0d5e55d8236778e0524189fb89d54ed32cff49ad/hack01.svg" alt="Matrix SVG" style="max-width: 100%;"> -->
+![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/5366a7a8-5382-4616-b952-dea00176559e)
 
 <h1 align="center">Hi 👋, I'm MD Rezaul Karim</h1>
 
@@ -82,8 +83,7 @@
 
 ---
 
-## ![LookingSearchingGIF](https://github.com/user-attachments/assets/8039775c-2cc8-4eab-8760-5e6d8e65ac19)
- Research Interests
+## 🔍 Research Interests
 
 - 🔐 Mobile Privacy & Real-Time Alerts  
 - 🧠 HCI & Usability Engineering  
@@ -112,6 +112,7 @@
 ---
 
 > “I aim to build secure, scalable systems that power real-world applications.”
+
 
 
 
