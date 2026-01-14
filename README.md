@@ -107,13 +107,14 @@
 
 ---
 ## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/md-rezaul-karim-2423a621a/)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/md-rezaul-karim-2423a621a/)
+- 🔗 [Portfolio](https://md-rezaul-karim-prtfolio1536.vercel.app)
 - 📧 Email: *reza15361382@gmail.com*
 
 ---
 
 > “I aim to build secure, scalable systems that power real-world applications.”
+
 
 
 
